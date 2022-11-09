@@ -1,0 +1,3 @@
+{"action": "add", "attributeSubject":{"userId" : 58102, "role": "sensor", "group": "detection"}, "attributeObject": {"deviceId":"AX0101"}, "attributePermission": "true", "attributeEnvironment": {"createTime": 1000, "endTime": 10000}}
+
+{"action": "delete", "attributeSubject":{"userId" : 58473, "role": "sensor", "group": "detection"}, "attributeObject": {"deviceId":"AX0123"}}

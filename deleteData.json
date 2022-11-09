@@ -1,0 +1,12 @@
+{
+  "action": "delete",
+  "attributeSubject":{
+    "userId" : 58473,
+    "role": "sensor",
+    "group": "detection"
+  },
+  "attributewObject": {
+    "deviceId":"AX0123"
+  }
+}
+
